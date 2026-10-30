@@ -1,29 +1,28 @@
 # QA Engineer | Test Automation
 
-QA Engineer focused on test automation for web applications, APIs, and performance testing. 
-Hands-on experience building and executing automated test projects using industry-standard tools and workflows.
+QA Tester with professional experience in functional, regression,
+exploratory, automation, API, and performance testing.
+Professional experience includes test automation with Ranorex Studio,
+REST API testing, performance testing with JMeter, defect tracking,
+Git, and Azure DevOps.
+Currently strengthening my test automation skills with Selenium and
+Python.
 
 ## Skills & Tools
 
-- UI Automation: Cypress, Selenium
+- UI Automation: Selenium, Python, Pytest
 - API Testing: Postman, Newman
 - Performance Testing: JMeter
-- Programming: JavaScript, Python
-- Testing Practices: E2E testing, Page Object Model, assertions
-- Tooling: CLI execution, Git, GitHub
+- Professional Automation: Ranorex Studio
+- Tools: Git, Azure DevOps
+- Testing: Functional, Regression, Exploratory, API and Performance Testing
 
 ## Featured Projects
 
-This profile includes hands-on automation projects covering UI, API, and performance testing. 
-Each project demonstrates real execution, assertions, and command-line usage, available in the pinned repositories below.
-
-## What I focus on
-
-- Writing clear and maintainable automated tests
-- Understanding application behavior beyond “happy paths”
-- Using automation as a support for quality, not just scripts
+- Selenium + Python UI Automation
+- Postman + Newman API Testing
+- JMeter Performance Testing
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/manuel-orozco-34a9543a73
-- GitHub: https://github.com/ManuelMN22
+- LinkedIn: https://www.linkedin.com/in/manuel-alejandro-orozco-gonzalez-a24887354/
