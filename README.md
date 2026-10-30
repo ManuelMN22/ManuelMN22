@@ -1,4 +1,4 @@
-# QA Engineer | Test Automation
+# QA Tester | Test Automation
 
 QA Tester with professional experience in functional, regression,
 exploratory, automation, API, and performance testing.
